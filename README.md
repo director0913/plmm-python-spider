@@ -6,6 +6,7 @@
 
 图片存储的路径在settings.py里面，这个参数后面 IMAGES_STORE ，可以自行修改
 
+运行 vmgrils/main.py
 
 ### English
 The current code uses Python version 3.8
@@ -14,5 +15,7 @@ What module needs to be installed additionally, I forgot that when running, when
 
 The path of image storage is in settings.py. After this parameter,IMAGES_STORE can be modified by yourself
 
-eg：![效果](https://github.com/director0913/plmm-python-spider/1.jpg)
-eg：![效果](https://github.com/director0913/plmm-python-spider/2.jpg)
+run vmgrils/main.py
+
+eg：![效果](https://github.com/director0913/plmm-python-spider/vmgirls/1.jpg)
+eg：![效果](https://github.com/director0913/plmm-python-spider/vmgirls/2.jpg)
