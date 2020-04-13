@@ -17,5 +17,5 @@ The path of image storage is in settings.py. After this parameter,IMAGES_STORE c
 
 run vmgrils/main.py
 
-eg：![效果](https://github.com/director0913/plmm-python-spider/vmgirls/1.jpg)
-eg：![效果](https://github.com/director0913/plmm-python-spider/vmgirls/2.jpg)
+eg：![效果](https://github.com/director0913/plmm-python-spider/blob/master/1.jpg)
+eg：![效果](https://github.com/director0913/plmm-python-spider/blob/master/2.jpg)
